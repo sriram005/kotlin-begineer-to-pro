@@ -17,7 +17,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[User Input](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/user-input.kt)*
 
-- *Arithmetic and Assignment Operators*
+- *[Arithmetic and Assignment Operators](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Arithmetic-Assignment-operators.kt)*
 
 - *Comparison and Logical Operators*
 
