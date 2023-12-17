@@ -19,7 +19,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Arithmetic and Assignment Operators](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Arithmetic-Assignment-operators.kt)*
 
-- *Comparison and Logical Operators*
+- *[Comparison and Logical Operators](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Comparision-Logical-operators.kt)*
 
 - *Condition statements*
 
