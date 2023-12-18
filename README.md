@@ -21,7 +21,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Comparison and Logical Operators](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Comparision-Logical-operators.kt)*
 
-- *Condition statements*
+- *[Conditional statements](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/conditional-statements.kt)*
 
 - *Looping Statements*
 
