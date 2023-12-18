@@ -1,4 +1,4 @@
-/* ---------------- Day 4 - Arithmetic and Assignment Operators --------------- */
+/* ---------------- Day 5 - Arithmetic and Assignment Operators --------------- */
 
 /*
 
