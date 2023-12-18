@@ -1,4 +1,4 @@
-/* ---------------- Day 5 - Comparision and Logical Operators --------------- */
+/* ---------------- Day 6 - Comparision and Logical Operators --------------- */
 
 /*
 
