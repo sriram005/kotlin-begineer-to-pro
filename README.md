@@ -23,7 +23,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Conditional statements](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/conditional-statements.kt)*
 
-- *Looping Statements*
+- *[Looping Statements](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/looping-statements.kt)*
 
 - *Jumping Statements*
 
