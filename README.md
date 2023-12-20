@@ -25,7 +25,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Looping Statements](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/looping-statements.kt)*
 
-- *Jumping Statements*
+- *[Jump Statements](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/jump-statements.kt)*
 
 - *Null Safety*
 
