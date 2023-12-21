@@ -27,7 +27,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Jump Statements](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/jump-statements.kt)*
 
-- *Null Safety*
+- *[Null Safety](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/null-safety.kt)*
 
 - *Arrays*
 
