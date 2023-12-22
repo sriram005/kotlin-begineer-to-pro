@@ -29,7 +29,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Null Safety](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/null-safety.kt)*
 
-- *Arrays*
+- *[Arrays](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Arrays.kt)*
 
 - *Strings*
 
