@@ -35,7 +35,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Lists](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Lists.kt)*
 
-- *Functions*
+- *[Functions](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Funtions.kt)*
 
 - *Parameters - Default and Named*
 
