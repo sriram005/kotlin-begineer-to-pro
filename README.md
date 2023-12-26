@@ -37,7 +37,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Functions](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Funtions.kt)*
 
-- *Parameters - Default and Named*
+- *[Parameters - Default and Named](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Default-Named-Parameters.kt)*
 
 - *Parameters - Vararg*
 
