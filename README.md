@@ -43,7 +43,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Extension Function](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Extension-Function.kt)*
 
-- *Classes*
+- *[Classes in Kotlin](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Classes.kt)*
 
 - *Constructors*
 
