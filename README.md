@@ -41,7 +41,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Parameters - Vararg](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Vararg-Parameters.kt)*
 
-- *Extension Function*
+- *[Extension Function](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Extension-Function.kt)*
 
 - *Classes*
 
