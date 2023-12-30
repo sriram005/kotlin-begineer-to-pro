@@ -45,7 +45,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Classes in Kotlin](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Classes.kt)*
 
-- *Constructors*
+- *[Constructors](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Constructors.kt)*
 
 - *Objects and Companion Objects*
 
