@@ -47,7 +47,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Constructors](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Constructors.kt)*
 
-- *Objects and Companion Objects*
+- *[Objects and Companion Objects](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Companion-Objects.kt)*
 
 - *Visibility Modifiers*
 
