@@ -29,9 +29,6 @@ class SampleClass{
     fun PrintObject(){
         println("The value in Singleton Object : ${SingletonObject.value}")
     } 
-
-    //call print() in Singleton Object
-    SingletonObject.print()
 }
 
 class SampleClass2{
@@ -46,6 +43,8 @@ fun main(){
     //Singleton Object
     val ref = SampleClass()
     ref.PrintObject()
+    //call print() in Singleton Object
+    SingletonObject.print()
 
     //Companion object
     SampleClass2.print() // it will call the print() method in SampleClass2
