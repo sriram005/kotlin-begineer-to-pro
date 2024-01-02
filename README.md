@@ -51,11 +51,11 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Visibility Modifiers](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Visibility-Modifiers.kt)*
 
+- *[Inheritance](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Inheritance.kt)*
+
 - *Function Overriding*
 
 - *Function Overloading*
-
-- *Inheritance*
 
 - *Abstract Class*
 
