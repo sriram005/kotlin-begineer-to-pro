@@ -53,9 +53,9 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Inheritance](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Inheritance.kt)*
 
-- *Function Overriding*
+- *[Function Overriding](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Function-Overriding.kt)*
 
-- *Function Overloading*
+- *[Function Overloading](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Function-Overloading.kt)*
 
 - *Abstract Class*
 
