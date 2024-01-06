@@ -57,7 +57,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Function Overloading](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Function-Overloading.kt)*
 
-- *Abstract Class*
+- *[Abstract Class](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Abstract-Class.kt)*
 
 - *Interface*
 
