@@ -61,7 +61,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Interface](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Interface.kt)*
 
-- *Annonymous Class*
+- *[Annonymous Class](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Annonymous-Class.kt)*
 
 - *Exception*
 
