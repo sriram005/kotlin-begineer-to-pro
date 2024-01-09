@@ -65,7 +65,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Exception](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Exception.kt)*
 
-- *Lambda Functions*
+- *[Lambda Functions](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Lambda-Functions.kt)*
 
 - *Generics*
 
