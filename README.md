@@ -67,7 +67,7 @@ This repository is a comprehensive resource for learning Kotlin from the ground 
 
 - *[Lambda Functions](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Lambda-Functions.kt)*
 
-- *Generics*
+- *[Generics](https://github.com/sriram005/kotlin-begineer-to-pro/blob/main/Generics.kt)*
 
 **NOTE :**
 ```
